@@ -167,6 +167,9 @@ h2 span {
     margin-top: -10px;
 }
 
+footer {
+    height: fit-content;
+}
 .footer-div1 ,
 .footer-div2,
 .footer-div3,
